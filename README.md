@@ -38,8 +38,8 @@ A professional, mobile-friendly greenhouse gas emissions calculator specifically
 
 ## Documentation
 
-- [**Methodology**](docs/methodology.md) - Detailed calculation methods and sources
-- [**Emission Factors**](docs/methodology.md#emission-factors-sources) - Complete factor documentation
+- **Methodology** found here (docs/methodology.md) - Detailed calculation methods and sources
+  
 
 ## Kenya Context
 
